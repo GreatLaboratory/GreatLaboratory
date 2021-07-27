@@ -1,22 +1,21 @@
 <div>
-  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsnodeve"/></a>
+    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsnodeve"/></a>
 </div>
 <div>
-  <a href="http://greatlaboratory.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:wowo0201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wowo0201@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/greatlaboratory
-" target="_blank"><img src="https://img.shields.io/badge/Myunggwan_Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="http://greatlaboratory.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+    <a href="mailto:wowo0201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wowo0201@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="www.linkedin.com/in/greatlaboratory" target="_blank"><img src="https://img.shields.io/badge/Myunggwan_Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </div>
 
 <br>
 
 ### 👀 Introduce
 <div>
-  👋&nbsp; Hi there! I'm <b>backend engineer</b> using Spring and NodeJS. 🚀<br/>
-  Sometimes I develop application with golang and python. 💖<br/>
-  I'm interested in devops, desgin pattern, clean code. 🤖<br/><br/>
-  <!-- I enjoy sports such as soccer, basketball and table tennis. ⚽🏀🏓<br/>
-  I hope to develop highly available applications. ✨ <br/><br/> -->
+    👋&nbsp; Hi there! I'm <b>backend engineer</b> using Spring and NodeJS. 🚀<br/>
+    Sometimes I develop application with golang and python. 💖<br/>
+    I'm interested in devops, desgin pattern, clean code. 🤖<br/><br/>
+    <!-- I enjoy sports such as soccer, basketball and table tennis. ⚽🏀🏓<br/>
+    I hope to develop highly available applications. ✨ <br/><br/> -->
 </div>
 
 ### 💪 Skills
@@ -27,14 +26,14 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-        </div>
+    </div>
         <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-        </div>
-        <div>
+    </div>
+    <div>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     </div>
@@ -57,8 +56,8 @@
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-        </div>
-        <div>
+    </div>
+    <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=black"/>
