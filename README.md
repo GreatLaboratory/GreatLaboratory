@@ -4,7 +4,7 @@
 <div>
     <a href="http://greatlaboratory.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="mailto:wowo0201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wowo0201@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="www.linkedin.com/in/greatlaboratory" target="_blank"><img src="https://img.shields.io/badge/Myunggwan_Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/greatlaboratory/" target="_blank"><img src="https://img.shields.io/badge/Myunggwan_Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </div>
 
 <br>
