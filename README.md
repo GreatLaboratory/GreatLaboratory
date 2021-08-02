@@ -10,8 +10,9 @@
 <br>
 
 ### 👀 Introduce
+
 <div>
-    👋&nbsp; Hi there! I'm <b>backend engineer</b> using Spring and NodeJS. 🚀<br/>
+    👋&nbsp; Hi there! I'm <b>backend application developer</b> using NodeJS and Spring. 🚀<br/>
     Sometimes I develop application with golang and python. 💖<br/>
     I'm interested in devops, desgin pattern, clean code. 🤖<br/><br/>
     <!-- I enjoy sports such as soccer, basketball and table tennis. ⚽🏀🏓<br/>
@@ -20,7 +21,9 @@
 </div>
 
 ### 💪 Skills
+
 #### Frameworks & Languages
+
 <p>
     <div>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
@@ -41,6 +44,7 @@
 </P>
 
 #### Infra
+
 <p>
     <div>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -51,6 +55,7 @@
 </p>
 
 #### Tools
+
 <p>
     <div>
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
