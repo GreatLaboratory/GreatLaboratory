@@ -14,7 +14,7 @@
 <div>
     👋&nbsp; Hi there! I'm <b>backend application developer</b> using NodeJS and Spring. 🚀<br/>
     Sometimes I develop application with golang and python. 💖<br/>
-    I'm interested in devops, desgin pattern, clean code. 🤖<br/><br/>
+    I'm interested in devops, design pattern, clean code. 🤖<br/><br/>
     <!-- I enjoy sports such as soccer, basketball and table tennis. ⚽🏀🏓<br/>
     I love eunddodi. I'm head over heels for her. 💖💖 <br/>
     I hope to develop highly available applications. ✨ <br/><br/> -->
