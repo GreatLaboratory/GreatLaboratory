@@ -12,12 +12,9 @@
 ### 👀 Introduce
 
 <div>
-    👋&nbsp; Hi there! I'm <b>backend application developer</b> using NodeJS and Spring. 🚀<br/>
-    Sometimes I develop application with golang and python. 💖<br/>
-    I'm interested in devops, design pattern, clean code. 🤖<br/><br/>
-    <!-- I enjoy sports such as soccer, basketball and table tennis. ⚽🏀🏓<br/>
-    I love eunddodi. I'm head over heels for her. 💖💖 <br/>
-    I hope to develop highly available applications. ✨ <br/><br/> -->
+    👋&nbsp; Hi there! I'm <b>backend developer</b> who is always studying and wants to develop myself. 🚀<br/>
+    I especially love typescript and golang. 💖<br/>
+    I'm interested in devops, design pattern, clean code and MSA. 🤖<br/><br/>
 </div>
 
 ### 💪 Skills
@@ -26,10 +23,9 @@
 
 <p>
     <div>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
     </div>
         <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -48,9 +44,7 @@
 <p>
     <div>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white"/>
     </div>
 </p>
 
@@ -74,7 +68,5 @@
 <br>
 
 ![Myung-gwan Kim's github stats](https://github-readme-stats.vercel.app/api?username=greatlaboratory&show_icons=true&count_private=true)
-
-<br>
-
+<!-- <br> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatlaboratory&layout=compact)](https://github.com/greatlaboratory) -->
