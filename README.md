@@ -13,7 +13,7 @@
 
 <div>
     👋&nbsp; Hi there! I'm <b>backend developer</b> who is always studying and wants to develop myself. 🚀<br/>
-    I especially love typescript and golang. 💖<br/>
+    I especially love Kotlin and Go. 💖<br/>
     I'm interested in devops, design pattern, clean code and MSA. 🤖<br/><br/>
 </div>
 
@@ -22,7 +22,7 @@
 <p>
     </div>
         <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
